@@ -41,8 +41,6 @@ Além disso, há as seguintes pastas organizadas conforme descrito:
 
 <b>documentos</b>: Toda a documentação estará nesta pasta, incluindo entregas do projeto e o arquivo Venha para a FECAP!.txt.
 
-<b>imagens</b>: Pasta destinada a armazenar todas as imagens relacionadas ao sistema ou documentação.
-
 <b>src</b>: Pasta principal que contém o código-fonte do projeto, organizada da seguinte forma:
 
 Apk: Arquivos compilados do aplicativo, incluindo APKs, metadados e arquivos relacionados.
@@ -53,21 +51,7 @@ Frontend: Contém os arquivos do aplicativo front-end, organizados com subpastas
 
 
 ## 💻 Configuração para Desenvolvimento
-Para abrir este projeto, você necessita das seguintes ferramentas:
 
-Node.js
-
- Clone o repositório
-git clone <link_do_repositorio>
-
- Navegue até o diretório Backend
-cd src/Backend
-
- Instale as dependências
-npm install
-
- Inicie o servidor
-npm start
 
 
 ## 📋 Licença/License
