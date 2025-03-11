@@ -7,10 +7,9 @@
 
 ## Integrantes: <a href="https://www.linkedin.com/in/sergio-pedote/">Sérgio Ricardo Pedote Jr</a>, <a href="https://www.linkedin.com/in/vinipiovesan/">Vinicius Miranda A Piovesan</a>, <a href="https://www.linkedin.com/in/matheus-de-medeiros-5516a02a9/">Matheus de Medeiros</a>
 
-## Professores Orientadores: <a href="https://www.linkedin.com/in/jefferson-o-silva/">Jefferson Silva</a>, <a href="https://www.linkedin.com/in/vheltai/">Vinicius Heltai</a>, <a href="https://www.linkedin.com/in/francisco-escobar/">Francisco Escobar</a>, <a href="https://www.linkedin.com/in/aimarlopes/">Aimar Martins</a>.
+## Professores Orientadores: <a </a>.
 
 ## Descrição
-<p align="center"> <img src="https://i.imgur.com/8KWAin5.png" alt="FitSync" border="0"> <br>          Image by <a href="https://i.imgur.com/8KWAin5.png">FitSync</a><br> </p>
 
 
 ## 🛠 Estrutura de pastas
