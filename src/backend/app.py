@@ -19,9 +19,9 @@ bcrypt = Bcrypt(app)
 
 CORS(app, origins=["http://localhost:5173"])  # Substitua pelo endereço do seu frontend
 
-ORS_API_KEY = "5b3ce3597851110001cf624855631f968bc045de9321e2911cf0396f"
+ORS_API_KEY = ""
 ORS_GEOCODE_URL = "https://api.openrouteservice.org/geocode/search"
-GOOGLE_API_KEY = "AIzaSyA82q2r7gN2qqfjWvLBbaxS1CFkkYdgNwQ"
+GOOGLE_API_KEY = ""
 GOOGLE_GEOCODE_URL = "https://maps.googleapis.com/maps/api/geocode/json"
 GOOGLE_DIRECTIONS_URL = "https://maps.googleapis.com/maps/api/directions/json"
 USUARIOS_PATH = "usuarios.json"
