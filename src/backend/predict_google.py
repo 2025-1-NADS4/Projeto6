@@ -7,7 +7,7 @@ from functools import lru_cache
 
 app = Flask(__name__)
 
-GOOGLE_API_KEY = "AIzaSyA82q2r7gN2qqfjWvLBbaxS1CFkkYdgNwQ"
+GOOGLE_API_KEY = ""
 GOOGLE_GEOCODE_URL = "https://maps.googleapis.com/maps/api/geocode/json"
 GOOGLE_DIRECTIONS_URL = "https://maps.googleapis.com/maps/api/directions/json"
 
