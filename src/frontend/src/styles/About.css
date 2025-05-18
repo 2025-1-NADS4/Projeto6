@@ -1,0 +1,26 @@
+.about-page {
+    min-height: 100vh;
+    display: flex;
+    flex-direction: column;
+    background-color: #1c1c1c;
+    color: white;
+  }
+  
+  .about-content {
+    flex: 1;
+    padding: 4rem 2rem;
+    text-align: center;
+  }
+  
+  .about-title {
+    font-size: 2.5rem;
+    color: #6a1b9a;
+    margin-bottom: 1rem;
+  }
+  
+  .about-description {
+    color: #ccc;
+    margin-bottom: 2rem;
+    font-size: 1.2rem;
+  }
+  

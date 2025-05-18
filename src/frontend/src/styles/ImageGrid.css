@@ -1,0 +1,48 @@
+.image-grid {
+    display: flex;
+    flex-wrap: wrap;
+    justify-content: center;
+    gap: 1rem;
+    padding: 1rem;
+  }
+  
+  .image-card {
+    position: relative;
+    width: 250px;
+    height: 350px;
+    margin: 1rem;
+    border-radius: 8px;
+    overflow: hidden;
+    text-decoration: none;
+    transition: transform 0.3s ease;
+  }
+  
+  .image-card:hover {
+    transform: scale(1.05);
+  }
+  
+  .image-card .image {
+    width: 100%;
+    height: auto;
+    display: block;
+    filter: brightness(0.4); 
+    transition: filter 0.3s ease; 
+  }
+  
+  .image-card:hover .image {
+    filter: brightness(1); 
+  }
+  
+  .image-card .overlay {
+    position: absolute;
+    bottom: 0;
+    left: 0;
+    width: 100%;
+    padding: 0.75rem;
+    background-color: rgba(0, 0, 0, 0.6); 
+    color: #fff;
+    text-align: center;
+    font-weight: bold;
+    font-size: 1rem;
+  }
+  
