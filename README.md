@@ -1,5 +1,5 @@
 # FECAP - Fundação de Comércio Álvares Penteado
-<p align="center"> <a href= "https://www.fecap.br/"><img src="icon muuvenow" alt="FECAP - Fundação de Comércio Álvares Penteado" border="0"></a> </p>
+<p align="center"> <a href= "https://www.fecap.br/"><img src="icon_muuvenow.png" alt="FECAP - Fundação de Comércio Álvares Penteado" border="0"></a> </p>
 
 # MuuveNow
 
