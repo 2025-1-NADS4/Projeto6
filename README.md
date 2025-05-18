@@ -3,6 +3,21 @@
 
 # MuuveNow
 
+Esta aplicação foi desenvolvida para prever valores (como preços ou tarifas) com base em dados de entrada fornecidos pelo usuário, como distância e duração de trajeto, por exemplo.<br>
+Utiliza um modelo de Machine Learning (Random Forest) para gerar previsões a partir de dados históricos armazenados em arquivos CSV por categoria.<br>
+Além disso, a aplicação integra um algoritmo de Inteligência Artificial (KMeans) para agrupar o comportamento dos usuários, permitindo análises futuras sobre perfis de uso ou segmentações automatizadas.<br>
+
+O sistema é dividido em duas partes principais:<br>
+
+Backend em Flask: responsável pela API, autenticação de usuários com criptografia segura (bcrypt), acesso ao modelo de IA e geração de previsões.<br>
+
+Frontend em React: fornece uma interface amigável para o usuário interagir com o sistema, enviar dados, visualizar rotas e estimativas de valores.<br>
+
+A ferramenta também faz uso de APIs externas (como o Google Maps) para calcular distância e tempo entre locais de origem e destino informados pelo usuário.<br>
+Os modelos são treinados e salvos automaticamente na primeira execução ou quando for necessário atualizá-los.<br>
+
+Esta solução é escalável, modular e pode ser facilmente adaptada para diferentes contextos onde previsão de valores e análise de comportamento sejam necessários.<br>
+
 ## MuuveNowGroup
 
 ## Integrantes: <a href="https://www.linkedin.com/in/sergio-pedote/">Sérgio Ricardo Pedote Jr</a>, <a href="https://www.linkedin.com/in/vinipiovesan/">Vinicius Miranda A Piovesan</a>, <a href="https://www.linkedin.com/in/matheus-de-medeiros-5516a02a9/">Matheus de Medeiros  <a href="https://www.linkedin.com/in/felipe-ribeiro-almeida-2698652b9/?utm_source=share&utm_campaign=share_via&utm_content=profile&utm_medium=ios_app">Felipe Ribeiro Almeida</a>   </a>
