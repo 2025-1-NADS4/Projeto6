@@ -1,5 +1,5 @@
-# FECAP - Fundação de Comércio Álvares Penteado
-<p align="center"> <a href= "https://www.fecap.br/"><img src="icon_muuvenow.png" alt="FECAP - Fundação de Comércio Álvares Penteado" border="0"></a> </p>
+# MuuVe Now
+<p align="center"> <a href= ""><img src="icon_muuvenow.png" alt="MuuVe Now" border="0"></a> </p>
 
 # MuuveNow
 
@@ -24,28 +24,9 @@ documentos<br>
 
 
 src<br>
-|--> Apk<br>
+|--> Backend<br>
 |--> Frontend<br>
 
-
-
-  
-
-A pasta raiz contém cinco arquivos importantes que devem ser alterados:
-
-<b>README.MD</b>: Arquivo que serve como guia e explicação geral sobre seu projeto. O mesmo que você está lendo agora.
-
-<b>.gitignore</b>: Arquivo utilizado para especificar quais arquivos ou pastas devem ser ignorados no controle de versão do Git.
-
-Além disso, há as seguintes pastas organizadas conforme descrito:
-
-<b>documentos</b>: Toda a documentação estará nesta pasta, incluindo entregas do projeto e o arquivo Venha para a FECAP!.txt.
-
-<b>src</b>: Pasta principal que contém o código-fonte do projeto, organizada da seguinte forma:
-
-Apk: Arquivos compilados do aplicativo, incluindo APKs, metadados e arquivos relacionados.
-Backend: Contém o código do servidor, dividido em subpastas como config, controllers, models e routes. Inclui arquivos como server.js, app.js e arquivos de configuração.
-Frontend: Contém os arquivos do aplicativo front-end, organizados com subpastas como FitSync, gradle e arquivos como build.gradle e settings.gradle.
 
 ## 🛠 Instalação
 
@@ -55,10 +36,6 @@ Frontend: Contém os arquivos do aplicativo front-end, organizados com subpastas
 
 
 ## 📋 Licença/License
-
-
-
-## 🎨 Design 
 
 
 ## 🎓 Referências
