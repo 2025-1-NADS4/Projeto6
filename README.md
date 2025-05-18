@@ -87,7 +87,6 @@ As portas e configurações específicas podem ser ajustadas conforme necessidad
 
 Aqui estão as referências usadas no projeto.
 
-1. 
-2. 
-3. 
-4. 
+1. https://openrouteservice.org/dev/
+2. https://developers.google.com/maps
+3. https://scikit-learn.org/stable/
