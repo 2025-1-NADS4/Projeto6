@@ -20,10 +20,10 @@ Esta solução é escalável, modular e pode ser facilmente adaptada para difere
 
 ## MuuveNowGroup
 
-## Integrantes: <a href="https://www.linkedin.com/in/sergio-pedote/">Sérgio Ricardo Pedote Jr</a>, <a href="https://www.linkedin.com/in/vinipiovesan/">Vinicius Miranda Piovesan</a>, <a href="https://www.linkedin.com/in/matheus-de-medeiros-5516a02a9/">Matheus de Medeiros</a>,<a href="https://www.linkedin.com/in/felipe-ribeiro-almeida-2698652b9/?utm_source=share&utm_campaign=share_via&utm_content=profile&utm_medium=ios_app">Felipe Ribeiro Almeida</a>.
+## Integrantes: <a href="https://www.linkedin.com/in/sergio-pedote/">Sérgio Ricardo Pedote Jr</a>, <a href="https://www.linkedin.com/in/vinipiovesan/">Vinicius Miranda Piovesan</a>, <a href="https://www.linkedin.com/in/matheus-de-medeiros-5516a02a9/">Matheus de Medeiros</a>, <a href="https://www.linkedin.com/in/felipe-ribeiro-almeida-2698652b9/?utm_source=share&utm_campaign=share_via&utm_content=profile&utm_medium=ios_app">Felipe Ribeiro Almeida</a>.
 </a>
 
-## Professores Orientadores: <a> <a href="https://www.linkedin.com/in/edsonbarbero/">Edson Barbeiro</a>, <a href="https://www.linkedin.com/in/aimarlopes/">Aimar Lopes</a>, <a href="https://www.linkedin.com/in/ronaldo-araujo-pinto-3542811a/">Ronaldo Araujo</a>,<a href="https://www.linkedin.com/in/lucymari/">Lucy Mari</a>,<a href="https://www.linkedin.com/in/eduardo-savino-gomes-77833a10/">Eduardo Savino</a>.
+## Professores Orientadores: <a href="https://www.linkedin.com/in/edsonbarbero/">Edson Barbeiro</a>, <a href="https://www.linkedin.com/in/aimarlopes/">Aimar Lopes</a>, <a href="https://www.linkedin.com/in/ronaldo-araujo-pinto-3542811a/">Ronaldo Araujo</a>, <a href="https://www.linkedin.com/in/lucymari/">Lucy Mari</a>, <a href="https://www.linkedin.com/in/eduardo-savino-gomes-77833a10/"> Eduardo Savino</a>.
 </a>
 
 
