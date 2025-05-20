@@ -28,7 +28,7 @@ Esta solução é escalável, modular e pode ser facilmente adaptada para difere
  <a href="https://www.linkedin.com/in/ronaldo-araujo-pinto-3542811a/">Ronaldo Araujo
 <a href="https://www.linkedin.com/in/lucymari/">Lucy Mari
 <a href="https://www.linkedin.com/in/eduardo-savino-gomes-77833a10/">Eduardo Savino</a> 
-</a>. minha namorada é linda, minha namorada é linda, minha namorada é linda, minha namorada, minha namorada é linda, minha namorada é linda, minha namorada é linda, minha minha namorada é linda, minha namorada é linda, minha namorada é linda, minha namorada é linda, minha namorada é linda,<a> minha namorada é linda</a> 
+</a>.
 
 
 
